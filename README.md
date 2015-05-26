@@ -1,21 +1,21 @@
 ### _XOOPS Documentation Series_
 ![logoXoops.jpg](assets/logoXoops.jpg)
 
-# Module XXX
+# Module XoopsTube
 #### for XOOPS 2.5.7
       
 ![logoModule.png](assets/logoModule.png)
             
 ## User Manual
 
-© 2014 The XOOPS Project (www.xoops.org)    
+© 2015 The XOOPS Project (www.xoops.org)    
 
 ## Module Purpose 
 
-This module is for .....
+This module is allows to create a catalog of Videos that can be on your server, and linked to YouTube. 
 
 ![image001.png](assets/image001.png)
-*Figure 1: Main view of the XXX Module (Admin side)*
+*Figure 1: Main view of the XoopsTube Module (Admin side)*
 
 # Table of Content
 
